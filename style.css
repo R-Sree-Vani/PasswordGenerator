@@ -1,0 +1,52 @@
+@media screen and (max-width: 600px){
+			body{
+				margin: auto 0;
+				
+				
+				height: 850px;
+			}
+			
+
+		}
+		
+		body{
+		
+		background-color: orange;
+
+
+			background-size: 200% 200%;
+			background-repeat: no-repeat;
+			background-position: relative;
+			font-family: 'Poppins';
+
+		}
+
+		
+		.outsp{
+			border: 0.5px solid;
+			width: 350px;
+			height: 110px;
+			padding: 80px;
+			background-color: white;
+
+		}
+		input{
+			height: 50px;
+			font-size: 28px;
+			border-radius: 7px;
+			border: 0.5px solid orange;
+		}
+		button{
+			height: 45px;
+			font-size: 20px;
+			margin: 8px;
+            border: 0.5px solid orange;
+			border-radius: 5px;
+		}
+		button:hover{
+			background-color: orange;
+			color: white;
+			cursor: pointer;
+			border-radius: 5px;
+			border:0.5px solid orange;
+		}
